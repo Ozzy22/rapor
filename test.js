@@ -46,7 +46,7 @@ var config = {
 		plugins: {
 			datasource: {
 				type: 'csv',
-				url: 'https://gist.githubusercontent.com/mikbuch/32862308f4f5cac8141ad3ae49e0920c/raw/b2b256d69a52dd202668fe0343ded98371a35b15/sample-index.csv',
+				url: 'https://raw.githubusercontent.com/Ozzy22/rapor/main/sample-index.csv',
 				delimiter: ',',
 				rowMapping: 'index',
 				datasetLabels: true,
